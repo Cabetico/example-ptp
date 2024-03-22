@@ -9,3 +9,6 @@ def add_number(a, b, c):
 
 def cal_diferrence():
     pass
+
+def github_function():
+    pass
