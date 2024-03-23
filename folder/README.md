@@ -1,3 +1,7 @@
 # Example Git Repository
 
-goodbye
+We are learning how to make commits.
+
+Few more lines
+
+Goodbye
